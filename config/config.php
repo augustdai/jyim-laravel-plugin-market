@@ -21,7 +21,7 @@ return [
 
     // 允许访问后台的账号
     'allow_view_admin' => [
-        '1365831278@qq.com'
+        'admin@jyim.com'
     ],
 
     // 是否开启自带ui
