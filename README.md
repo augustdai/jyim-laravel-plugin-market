@@ -7,7 +7,7 @@
 * step 1
 
 ``` 
-composer require Jyim/laravel-plugin-market
+composer require jyim/laravel-plugin-market
 ```
 
 * step 2
